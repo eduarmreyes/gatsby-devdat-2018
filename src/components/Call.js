@@ -17,7 +17,7 @@ const Call = props => (
     </div>
     {props.button && (
       <div className="call-box-bottom">
-        <a href="/contact" className="button">
+        <a href={`mailto:${props.data.site.siteMetadata.contact.email}`}>
           Contact
         </a>
       </div>

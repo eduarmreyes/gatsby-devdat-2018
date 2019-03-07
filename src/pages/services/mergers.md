@@ -1,15 +1,13 @@
 ---
-path: '/services/mergers'
-title: 'Mergers'
+path: '/services/design'
+title: 'Design'
 date: 2018-11-28T15:15:34+10:00
 image: '/services/default.png'
 featured: true
 draft: false
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+Whenever you do what you want but need help with the vision to 
 
 ## Ne verba patulosque numen vix libet
 
