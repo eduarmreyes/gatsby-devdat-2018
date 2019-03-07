@@ -22,5 +22,5 @@ you might also be looking for.
 
 ## Branding
 
-In the spirit to better our odds to be rememberable our company needs a branding
-strategy so that we can 
+In the spirit to better our odds to be rememberable companies need a branding
+strategy so that the impact in the user groups are greatly received.
