@@ -1,17 +1,17 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients recieve an obligation free consultation.",
-    "image": "/features/noun_branding_1885335.svg"
-  },
-  {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "Agile Methodologies",
+    "description": "We deliver fast and efficiently.",
     "image": "/features/noun_The Process_1885341.svg"
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "Rich Experience",
+    "description": "Our developers have 10 years of consolidated experience.",
+    "image": "/features/noun_branding_1885335.svg"
+  },
+  {
+    "title": "Tech Stack",
+    "description": "We stay up to date on the latest changes to the stack variarity.",
     "image": "/features/noun_3d modeling_1885342.svg"
   }
 ]
