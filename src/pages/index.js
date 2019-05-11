@@ -6,8 +6,8 @@ import Layout from '../layouts/index';
 import Call from '../components/Call';
 
 const Home = (props) => {
-  const markdown = props.data.allMarkdownRemark.edges;
-  const json = props.data.allFeaturesJson.edges;
+  const { edges: markdown } = props.data.allMarkdownRemark;
+  const { edges: json } = props.data.allFeaturesJson;
   return (
     <Layout bodyClass="page-home">
       <SEO title="Home" />
